@@ -31,9 +31,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,mysql,html,css&theme=light" /> <br>
-    <img src="https://skillicons.dev/icons?i=jupyter notebook,vscode,tailwind&theme=light" /> <br>
+    <img src="https://skillicons.dev/icons?i=jupyternotebook,vscode,tailwind&theme=light" /> <br>
     <img src="https://skillicons.dev/icons?i=github&theme=light" /> <br>
-    <img src="https://skillicons.dev/icons?i=spring boot,javascript,mongodb,c&theme=light" /><br>
+    <img src="https://skillicons.dev/icons?i=springboot,javascript,mongodb,c&theme=light" /><br>
 </div>
 
 <br/>
@@ -67,10 +67,10 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/arnab-laha578" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=light blue" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://twitter.com/ArnabLaha578" target="_blank">
-     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
