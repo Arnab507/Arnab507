@@ -31,9 +31,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,mysql,html,css&theme=light" /> <br>
-    <img src="https://skillicons.dev/icons?i=jupyternotebook,vscode,tailwind&theme=light" /> <br>
+    <img src="https://skillicons.dev/icons?i=idea,vscode,tailwind&theme=light" /> <br>
     <img src="https://skillicons.dev/icons?i=github&theme=light" /> <br>
-    <img src="https://skillicons.dev/icons?i=springboot,javascript,mongodb,c&theme=light" /><br>
+    <img src="https://skillicons.dev/icons?i=spring,javascript,mongodb,c&theme=light" /><br>
 </div>
 
 <br/>
