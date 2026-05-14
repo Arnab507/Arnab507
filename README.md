@@ -10,9 +10,9 @@
 
 <div align="center">
 
-  - 🔭 I’m currently working on **Web Developement**
+  - 🔭 I’m currently working on **Data Analyst**
 
-  - 🌱 I’m currently learning **JAVA,Spring-Boot**
+  - 🌱 I’m currently learning **PYTHON, POWER BI**
   
   - 👯 I’m looking to collaborate on **Real World Problems**
   
@@ -31,8 +31,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,mysql,html,css&theme=light" /> <br>
-    <img src="https://skillicons.dev/icons?i=idea,vscode,tailwind&theme=light" /> <br>
-    <img src="https://skillicons.dev/icons?i=github&theme=light" /> <br>
+    <img src="https://skillicons.dev/icons?i=idea,vscode,py&theme=light" /> <br>
+    <img src="https://skillicons.dev/icons?i=git,github&theme=light" /> <br>
     <img src="https://skillicons.dev/icons?i=spring,javascript,mongodb,c&theme=light" /><br>
 </div>
 
